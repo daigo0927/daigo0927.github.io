@@ -30,7 +30,7 @@ twitter_username: daigo0927
 github_username:  daigo.hirooka
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: jekyll-theme-leap-day
 plugins:
   - jekyll-feed
 
